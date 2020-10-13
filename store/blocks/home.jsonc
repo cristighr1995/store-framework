@@ -1,6 +1,8 @@
 {
-  "store.home": {
-    "blocks": ["flex-layout.row#rowid"]
+  "store.home": { 
+    "blocks": [
+      "flex-layout.row#rowid"
+    ]
   },
   "flex-layout.row#rowid": {
     "children": [
