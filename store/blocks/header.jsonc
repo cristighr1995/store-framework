@@ -43,7 +43,9 @@
         "children": [
           "logo",
           "header-spacer",
-          "search-bar"
+          "search-bar",
+          "minicart",
+          "login"
         ],
         "props": {
             "inverted": true,
