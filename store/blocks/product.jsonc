@@ -56,7 +56,7 @@
       "props": {
         "showVariationsErrorMessage": true,
         "initialSelection": "empty",
-        "showValueForVariation": "all"
+        "showValueForVariation": "none"
       }
     },
     "product-price": {
